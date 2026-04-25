@@ -19,6 +19,25 @@
         }
       ]
     },
+      {
+        "id": "fastapi-rest-api",
+        "title": "Building REST APIs with FastAPI",
+        "description": "Design and implement RESTful APIs using the FastAPI framework in Python.",
+        "path": "assignments/fastapi-rest-api",
+        "dueDate": "2026-05-02",
+        "attachments": [
+          {
+            "name": "Starter Code",
+            "file": "starter-code.py",
+            "type": "python"
+          },
+          {
+            "name": "Requirements",
+            "file": "requirements.txt",
+            "type": "text"
+          }
+        ]
+      },
     {
       "id": "games-in-python",
       "title": "Games in Python",
